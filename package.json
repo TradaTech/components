@@ -15,7 +15,7 @@
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1",
     "styled-components": "^4.3.2",
-    "vue": "^2.6.10"
+    "vue": "^3.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
